@@ -14,3 +14,4 @@ print(n[5])
 
 n.pop(3)
 print(n)
+
