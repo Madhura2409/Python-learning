@@ -1,7 +1,7 @@
-names=['a','b','c']
+names=['a','b','c']   #names ---- n
 
-for name in names:
-    print(name) 
+for n in names:
+    print(n) 
 
 
 
